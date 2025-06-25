@@ -1,0 +1,44 @@
+img{
+    width: 700px;
+}
+body{
+    background-color: rgb(49, 48, 48);
+    background-image: url("artyom fon.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 2000px;
+    text-align: center;
+}
+
+h1{
+
+    font-size: 100px;
+    color: white;
+    text-shadow: 0px 0px 20px  black;
+    
+}
+p{
+    font-size: 28px;
+    color: whitesmoke;
+    padding: 20px;
+}
+button{
+     font-size: 20px;
+     padding: 10px 20px;
+     border: none;
+     background-color: rgb(39, 39, 39);
+     color: white;
+     border: 30px;
+     box-shadow: 0px 0px 50px white ;
+     margin-top: 20px;
+
+
+
+
+
+}
+
+button:hover{
+background-color: black;
+
+}
